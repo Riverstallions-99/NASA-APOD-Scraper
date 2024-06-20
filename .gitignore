@@ -4,5 +4,6 @@ geckodriver.log
 logs/*
 .idea/*
 .vs/*
-
+webScraper1.py
+webScraper2.0.py
 
