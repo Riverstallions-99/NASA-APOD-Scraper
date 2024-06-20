@@ -1,1 +1,8 @@
 apodImages/*
+!apodImages/
+geckodriver.log
+logs/*
+.idea/*
+.vs/*
+
+
